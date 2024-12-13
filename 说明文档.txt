@@ -1,0 +1,11 @@
+后台地址：http://localhost:8080/php240c1/admin/dist/index.html
+  
+管理员账号：abo	
+管理员密码：abo
+
+数据库修改路径：
+config.php 文件里
+function table_sql($sql){
+    $host = "localhost";
+    $username = "root";  
+    $passwd = "123456";  数据库密码
